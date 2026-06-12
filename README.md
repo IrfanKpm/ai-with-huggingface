@@ -10,8 +10,8 @@ This is my personal learning space while going through a comprehensive Hugging F
 
 | Chapter | Topic | Status |
 |--------|-------|--------|
-| 01 | Transformers Library | 🔄 In Progress |
-| 02 | Audio Models | ⏳ Upcoming |
+| 01 | Transformers Library | ✅ Completed |
+| 02 | Audio Models | 🔄 In Progress |
 | 03 | Diffusers Library | ⏳ Upcoming |
 | 04 | Video Models | ⏳ Upcoming |
 | 05 | Gradio Library | ⏳ Upcoming |
