@@ -12,8 +12,8 @@ This is my personal learning space while going through a comprehensive Hugging F
 |--------|-------|--------|
 | 01 | Transformers Library | ✅ Completed |
 | 02 | Audio Models | ✅ Completed |
-| 03 | Diffusers Library | 🔄 In Progress  |
-| 04 | Video Models | ⏳ Upcoming |
+| 03 | Diffusers Library | ✅ Completed  |
+| 04 | Video Models | 🔄 In Progress |
 | 05 | Gradio Library | ⏳ Upcoming |
 | 06 | Spaces & Deployment | ⏳ Upcoming |
 
